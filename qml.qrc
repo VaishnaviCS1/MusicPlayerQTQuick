@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>JSONData.js</file>
+        <file>CustomProgressBar.qml</file>
+    </qresource>
+</RCC>
