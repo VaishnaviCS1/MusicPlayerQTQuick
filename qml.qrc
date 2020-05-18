@@ -3,5 +3,6 @@
         <file>main.qml</file>
         <file>JSONData.js</file>
         <file>CustomProgressBar.qml</file>
+        <file>ButtonIcons.qml</file>
     </qresource>
 </RCC>
